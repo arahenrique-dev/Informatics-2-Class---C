@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Henrique/Documents/Sorbonne/S2/INFO 2/TP/LU1IN002/semaine1/CodeRunner/output/exo5'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _discriminant, symObjAddr: 0x0, symBinAddr: 0x100003BC4, symSize: 0x3C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _discriminant, symObjAddr: 0x0, symBinAddr: 0x100003BC4, symSize: 0x3C }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _afficheRacines, symObjAddr: 0x3C, symBinAddr: 0x100003C00, symSize: 0x158 }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x194, symBinAddr: 0x100003D58, symSize: 0x160 }
+...

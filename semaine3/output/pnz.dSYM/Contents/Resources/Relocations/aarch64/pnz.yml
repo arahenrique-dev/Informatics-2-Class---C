@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Henrique/Documents/Sorbonne/S2/INFO 2/TP/LU1IN002/semaine3/output/pnz'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _valeur_aleatoire, symObjAddr: 0x0, symBinAddr: 0x100003D50, symSize: 0x48 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _valeur_aleatoire, symObjAddr: 0x0, symBinAddr: 0x100003D50, symSize: 0x48 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _pos_neg_zero, symObjAddr: 0x48, symBinAddr: 0x100003D98, symSize: 0x84 }
+  - { offsetInCU: 0xC5, offset: 0xC5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xCC, symBinAddr: 0x100003E1C, symSize: 0xE0 }
+...
